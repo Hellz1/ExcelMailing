@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelGenerator", "ExcelGenerator\ExcelGenerator.csproj", "{7CFE64B5-C38C-4859-91B1-B78555B89104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelPasswordAdder", "ExcelPasswordAdder\ExcelPasswordAdder.csproj", "{8706F13E-2647-4145-9E6C-A05E40E819A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFE64B5-C38C-4859-91B1-B78555B89104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFE64B5-C38C-4859-91B1-B78555B89104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFE64B5-C38C-4859-91B1-B78555B89104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFE64B5-C38C-4859-91B1-B78555B89104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8706F13E-2647-4145-9E6C-A05E40E819A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8706F13E-2647-4145-9E6C-A05E40E819A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8706F13E-2647-4145-9E6C-A05E40E819A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8706F13E-2647-4145-9E6C-A05E40E819A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF694C75-ADF1-4271-BECD-D2744B600121}
+	EndGlobalSection
+EndGlobal
